@@ -1,0 +1,6 @@
+name: ml-algorithms
+dependencies:
+- python=3
+- numpy
+- pandas
+- pytest-xdist # makes pytest -f option available
