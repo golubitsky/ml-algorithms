@@ -4,3 +4,4 @@ dependencies:
 - numpy
 - pandas
 - pytest-xdist # makes pytest -f option available
+- yapf
